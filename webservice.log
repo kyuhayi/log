@@ -1,6 +1,0 @@
-2012-09-25 23:37:43,685 [main ]  INFO  org.jboss.wsf.stack.jbws.NativeServerConfig - JBoss Web Services - Stack Native Core
-2012-09-25 23:37:43,685 [main ]  INFO  org.jboss.wsf.stack.jbws.NativeServerConfig - 3.1.2.GA
-2012-09-25 23:38:26,569 [main ]  INFO  org.jboss.wsf.framework.management.DefaultEndpointRegistry - register: jboss.ws:context=api,endpoint=ReferenceDataBean
-2012-09-25 23:38:26,571 [main ]  INFO  org.jboss.wsf.framework.management.DefaultEndpointRegistry - register: jboss.ws:context=api,endpoint=SimpleMarketDataFeedBean
-2012-09-25 23:38:27,604 [main ]  INFO  org.jboss.wsf.stack.jbws.WSDLFilePublisher - WSDL published to: file:/home/kyuha/trunk/jboss-5.1.0.GA/server/default/data/wsdl/pep-ear.ear/pep-ejbs.jar/ReferenceDataBeanService3958385147438130357.wsdl
-2012-09-25 23:38:27,607 [main ]  INFO  org.jboss.wsf.stack.jbws.WSDLFilePublisher - WSDL published to: file:/home/kyuha/trunk/jboss-5.1.0.GA/server/default/data/wsdl/pep-ear.ear/pep-ejbs.jar/SimpleMarketDataFeedBeanService4243686140923232250.wsdl
