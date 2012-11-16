@@ -1,0 +1,359 @@
+=========================================================================
+
+  JBoss Bootstrap Environment
+
+  JBOSS_HOME: /home/kyuha/trunk/jboss-5.1.0.GA
+
+  JAVA: /opt/jdk1.6/bin/java
+
+  JAVA_OPTS: -Dprogram.name=run.sh -server -Xms512M -Xmx1024M  -Xss2M   -XX:MaxPermSize=128M  -XX:+CMSClassUnloadingEnabled -XX:+CMSPermGenSweepingEnabled -Dsun.rmi.dgc.client.gcInterval=3600000 -Dsun.rmi.dgc.server.gcInterval=3600000 -verbose:gc -XX:+PrintGCTimeStamps -XX:+PrintGCDetails -Xloggc:/home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/jboss-gc.log -Dcom.sun.management.jmxremote.port=12346 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Djava.net.preferIPv4Stack=true
+
+  CLASSPATH: /home/kyuha/trunk/jboss-5.1.0.GA/bin/run.jar:/opt/jdk1.6/lib/tools.jar
+
+=========================================================================
+
+23:20:49,527 INFO  [ServerImpl] Starting JBoss (Microcontainer)...
+23:20:49,528 INFO  [ServerImpl] Release ID: JBoss [The Oracle] 5.1.0.GA (build: SVNTag=JBoss_5_1_0_GA date=200905221634)
+23:20:49,529 INFO  [ServerImpl] Bootstrap URL: null
+23:20:49,529 INFO  [ServerImpl] Home Dir: /home/kyuha/trunk/jboss-5.1.0.GA
+23:20:49,529 INFO  [ServerImpl] Home URL: file:/home/kyuha/trunk/jboss-5.1.0.GA/
+23:20:49,529 INFO  [ServerImpl] Library URL: file:/home/kyuha/trunk/jboss-5.1.0.GA/lib/
+23:20:49,529 INFO  [ServerImpl] Patch URL: null
+23:20:49,529 INFO  [ServerImpl] Common Base URL: file:/home/kyuha/trunk/jboss-5.1.0.GA/common/
+23:20:49,530 INFO  [ServerImpl] Common Library URL: file:/home/kyuha/trunk/jboss-5.1.0.GA/common/lib/
+23:20:49,530 INFO  [ServerImpl] Server Name: default
+23:20:49,530 INFO  [ServerImpl] Server Base Dir: /home/kyuha/trunk/jboss-5.1.0.GA/server
+23:20:49,530 INFO  [ServerImpl] Server Base URL: file:/home/kyuha/trunk/jboss-5.1.0.GA/server/
+23:20:49,530 INFO  [ServerImpl] Server Config URL: file:/home/kyuha/trunk/jboss-5.1.0.GA/server/default/conf/
+23:20:49,530 INFO  [ServerImpl] Server Home Dir: /home/kyuha/trunk/jboss-5.1.0.GA/server/default
+23:20:49,530 INFO  [ServerImpl] Server Home URL: file:/home/kyuha/trunk/jboss-5.1.0.GA/server/default/
+23:20:49,530 INFO  [ServerImpl] Server Data Dir: /home/kyuha/trunk/jboss-5.1.0.GA/server/default/data
+23:20:49,530 INFO  [ServerImpl] Server Library URL: file:/home/kyuha/trunk/jboss-5.1.0.GA/server/default/lib/
+23:20:49,530 INFO  [ServerImpl] Server Log Dir: /home/kyuha/trunk/jboss-5.1.0.GA/server/default/log
+23:20:49,530 INFO  [ServerImpl] Server Native Dir: /home/kyuha/trunk/jboss-5.1.0.GA/server/default/tmp/native
+23:20:49,530 INFO  [ServerImpl] Server Temp Dir: /home/kyuha/trunk/jboss-5.1.0.GA/server/default/tmp
+23:20:49,530 INFO  [ServerImpl] Server Temp Deploy Dir: /home/kyuha/trunk/jboss-5.1.0.GA/server/default/tmp/deploy
+23:20:51,011 INFO  [ServerImpl] Starting Microcontainer, bootstrapURL=file:/home/kyuha/trunk/jboss-5.1.0.GA/server/default/conf/bootstrap.xml
+23:20:51,553 INFO  [VFSCacheFactory] Initializing VFSCache [org.jboss.virtual.plugins.cache.CombinedVFSCache]
+23:20:51,555 INFO  [VFSCacheFactory] Using VFSCache [CombinedVFSCache[real-cache: null]]
+23:20:51,795 INFO  [CopyMechanism] VFS temp dir: /home/kyuha/trunk/jboss-5.1.0.GA/server/default/tmp
+23:20:51,795 INFO  [ZipEntryContext] VFS force nested jars copy-mode is enabled.
+23:20:52,955 INFO  [ServerInfo] Java version: 1.6.0_30,Sun Microsystems Inc.
+23:20:52,955 INFO  [ServerInfo] Java Runtime: Java(TM) SE Runtime Environment (build 1.6.0_30-b12)
+23:20:52,955 INFO  [ServerInfo] Java VM: Java HotSpot(TM) Server VM 20.5-b03,Sun Microsystems Inc.
+23:20:52,955 INFO  [ServerInfo] OS-System: Linux 2.6.35-32-generic,i386
+23:20:52,955 INFO  [ServerInfo] VM arguments: -Dprogram.name=run.sh -Xms512M -Xmx1024M -Xss2M -XX:MaxPermSize=128M -XX:+CMSClassUnloadingEnabled -XX:+CMSPermGenSweepingEnabled -Dsun.rmi.dgc.client.gcInterval=3600000 -Dsun.rmi.dgc.server.gcInterval=3600000 -verbose:gc -XX:+PrintGCTimeStamps -XX:+PrintGCDetails -Xloggc:/home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/jboss-gc.log -Dcom.sun.management.jmxremote.port=12346 -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false -Djava.net.preferIPv4Stack=true -Djava.endorsed.dirs=/home/kyuha/trunk/jboss-5.1.0.GA/lib/endorsed 
+23:20:53,003 INFO  [JMXKernel] Legacy JMX core initialized
+23:20:54,589 INFO  [ProfileServiceBootstrap] Loading profile: ProfileKey@ff6348[domain=default, server=default, name=default]
+log4j: Threshold ="null".
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.apache] additivity to [true].
+log4j: Level value for org.apache is  [INFO].
+log4j: org.apache level set to INFO
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [jacorb] additivity to [true].
+log4j: Level value for jacorb is  [WARN].
+log4j: jacorb level set to WARN
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [javax] additivity to [true].
+log4j: Level value for javax is  [INFO].
+log4j: Desired Level sub-class: [org.jboss.logging.log4j.JDKLevel]
+log4j: javax level set to INFO
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [javax.xml.bind] additivity to [false].
+log4j: Level value for javax.xml.bind is  [INFO].
+log4j: Desired Level sub-class: [org.jboss.logging.log4j.JDKLevel]
+log4j: javax.xml.bind level set to INFO
+log4j: Class name: [org.apache.log4j.AsyncAppender]
+log4j: Attaching appender named [JBOSS_FILE] to appender named [JBOSS_ASYNC].
+log4j: Class name: [org.jboss.logging.appender.RollingFileAppender]
+log4j: Setting property [file] to [/home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/jboss.log].
+log4j: Setting property [append] to [false].
+log4j: Setting property [maxFileSize] to [50MB].
+log4j: Setting property [maxBackupIndex] to [9].
+log4j: Setting property [threshold] to [DEBUG].
+log4j: Parsing layout of class: "org.apache.log4j.PatternLayout"
+log4j: Setting property [conversionPattern] to [%d{ISO8601} [%-5.25t] %x %-5p %c - %m%n].
+log4j: setFile called: /home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/jboss.log, false
+log4j: setFile ended
+log4j: Adding appender named [JBOSS_ASYNC] to category [javax.xml.bind].
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [facelets.compiler] additivity to [true].
+log4j: Level value for facelets.compiler is  [WARN].
+log4j: Desired Level sub-class: [org.jboss.logging.log4j.JDKLevel]
+log4j: facelets.compiler level set to WARN
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [facelets] additivity to [true].
+log4j: Level value for facelets is  [INFO].
+log4j: Desired Level sub-class: [org.jboss.logging.log4j.JDKLevel]
+log4j: facelets level set to INFO
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [net.sf] additivity to [true].
+log4j: Level value for net.sf is  [INFO].
+log4j: Desired Level sub-class: [org.jboss.logging.log4j.JDKLevel]
+log4j: net.sf level set to INFO
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.jgroups] additivity to [false].
+log4j: Level value for org.jgroups is  [WARN].
+log4j: org.jgroups level set to WARN
+log4j: Class name: [org.apache.log4j.AsyncAppender]
+log4j: Attaching appender named [JGROUPS_FILE] to appender named [JGROUPS_ASYNC].
+log4j: Class name: [org.jboss.logging.appender.RollingFileAppender]
+log4j: Setting property [file] to [/home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/jgroups.log].
+log4j: Setting property [append] to [false].
+log4j: Setting property [maxFileSize] to [50MB].
+log4j: Setting property [maxBackupIndex] to [9].
+log4j: toLevel:class=[org.jboss.logging.XLevel]:pri=[TRACE]
+log4j: Setting property [threshold] to [TRACE].
+log4j: Parsing layout of class: "org.apache.log4j.PatternLayout"
+log4j: Setting property [conversionPattern] to [%d{ISO8601} [%-5.25t] %-5p %c %x - %m%n].
+log4j: setFile called: /home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/jgroups.log, false
+log4j: setFile ended
+log4j: Adding appender named [JGROUPS_ASYNC] to category [org.jgroups].
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.jgroups.protocols.UDP] additivity to [true].
+log4j: Level value for org.jgroups.protocols.UDP is  [ERROR].
+log4j: org.jgroups.protocols.UDP level set to ERROR
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.quartz] additivity to [false].
+log4j: Level value for org.quartz is  [INFO].
+log4j: org.quartz level set to INFO
+log4j: Adding appender named [JBOSS_ASYNC] to category [org.quartz].
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [com.sun] additivity to [false].
+log4j: Level value for com.sun is  [INFO].
+log4j: com.sun level set to INFO
+log4j: Adding appender named [JBOSS_ASYNC] to category [com.sun].
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [sun] additivity to [false].
+log4j: Level value for sun is  [INFO].
+log4j: sun level set to INFO
+log4j: Adding appender named [JBOSS_ASYNC] to category [sun].
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.jboss.management] additivity to [true].
+log4j: Level value for org.jboss.management is  [INFO].
+log4j: org.jboss.management level set to INFO
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.rhq] additivity to [true].
+log4j: Level value for org.rhq is  [WARN].
+log4j: org.rhq level set to WARN
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.jboss.serial] additivity to [true].
+log4j: Level value for org.jboss.serial is  [INFO].
+log4j: org.jboss.serial level set to INFO
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.jboss.seam] additivity to [true].
+log4j: Level value for org.jboss.seam is  [INFO].
+log4j: org.jboss.seam level set to INFO
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.jboss.ejb3] additivity to [true].
+log4j: Level value for org.jboss.ejb3 is  [INFO].
+log4j: org.jboss.ejb3 level set to INFO
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.jboss.ejb3.interceptors] additivity to [true].
+log4j: Level value for org.jboss.ejb3.interceptors is  [ERROR].
+log4j: org.jboss.ejb3.interceptors level set to ERROR
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.jboss.ejb3.stateless.StatelessBeanContext] additivity to [true].
+log4j: Level value for org.jboss.ejb3.stateless.StatelessBeanContext is  [ERROR].
+log4j: org.jboss.ejb3.stateless.StatelessBeanContext level set to ERROR
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.jboss.ws.core.jaxws.binding.SOAP11BindingJAXWS] additivity to [true].
+log4j: Level value for org.jboss.ws.core.jaxws.binding.SOAP11BindingJAXWS is  [ERROR].
+log4j: org.jboss.ws.core.jaxws.binding.SOAP11BindingJAXWS level set to ERROR
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.jboss.ws] additivity to [false].
+log4j: Level value for org.jboss.ws is  [INFO].
+log4j: org.jboss.ws level set to INFO
+log4j: Class name: [org.apache.log4j.AsyncAppender]
+log4j: Attaching appender named [WS_FILE] to appender named [WS_ASYNC].
+log4j: Class name: [org.jboss.logging.appender.RollingFileAppender]
+log4j: Setting property [file] to [/home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/webservice.log].
+log4j: Setting property [append] to [false].
+log4j: Setting property [maxFileSize] to [50MB].
+log4j: Setting property [maxBackupIndex] to [9].
+log4j: Parsing layout of class: "org.apache.log4j.PatternLayout"
+log4j: Setting property [conversionPattern] to [%d{ISO8601} [%-5.25t] %x %-5p %c - %m%n].
+log4j: setFile called: /home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/webservice.log, false
+log4j: setFile ended
+log4j: Adding appender named [WS_ASYNC] to category [org.jboss.ws].
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.jboss.wsf] additivity to [false].
+log4j: Level value for org.jboss.wsf is  [INFO].
+log4j: org.jboss.wsf level set to INFO
+log4j: Adding appender named [WS_ASYNC] to category [org.jboss.wsf].
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [com.arjuna] additivity to [false].
+log4j: Level value for com.arjuna is  [INFO].
+log4j: com.arjuna level set to INFO
+log4j: Adding appender named [JBOSS_ASYNC] to category [com.arjuna].
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.jboss] additivity to [false].
+log4j: Level value for org.jboss is  [INFO].
+log4j: org.jboss level set to INFO
+log4j: Adding appender named [JBOSS_ASYNC] to category [org.jboss].
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.hibernate.SQL] additivity to [false].
+log4j: Level value for org.hibernate.SQL is  [INFO].
+log4j: org.hibernate.SQL level set to INFO
+log4j: Class name: [org.apache.log4j.AsyncAppender]
+log4j: Attaching appender named [HIB_FILE] to appender named [HIB_ASYNC].
+log4j: Class name: [org.jboss.logging.appender.RollingFileAppender]
+log4j: Setting property [file] to [/home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/hibernate.log].
+log4j: Setting property [append] to [false].
+log4j: Setting property [maxFileSize] to [50MB].
+log4j: Setting property [maxBackupIndex] to [9].
+log4j: Setting property [threshold] to [DEBUG].
+log4j: Parsing layout of class: "org.apache.log4j.PatternLayout"
+log4j: Setting property [conversionPattern] to [%d{ISO8601} [%-5.25t] %x %-5p %c - %m%n].
+log4j: setFile called: /home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/hibernate.log, false
+log4j: setFile ended
+log4j: Adding appender named [HIB_ASYNC] to category [org.hibernate.SQL].
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.hibernate.engine.loading.LoadContexts] additivity to [true].
+log4j: Level value for org.hibernate.engine.loading.LoadContexts is  [ERROR].
+log4j: org.hibernate.engine.loading.LoadContexts level set to ERROR
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.hibernate] additivity to [true].
+log4j: Level value for org.hibernate is  [INFO].
+log4j: org.hibernate level set to INFO
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.ajax4jsf.cache] additivity to [true].
+log4j: Level value for org.ajax4jsf.cache is  [WARN].
+log4j: org.ajax4jsf.cache level set to WARN
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [org.ajax4jsf] additivity to [false].
+log4j: Level value for org.ajax4jsf is  [WARN].
+log4j: org.ajax4jsf level set to WARN
+log4j: Class name: [org.apache.log4j.AsyncAppender]
+log4j: Attaching appender named [A4J_FILE] to appender named [A4J_ASYNC].
+log4j: Class name: [org.jboss.logging.appender.RollingFileAppender]
+log4j: Setting property [file] to [/home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/ajax4jsf.log].
+log4j: Setting property [append] to [false].
+log4j: Setting property [maxFileSize] to [50MB].
+log4j: Setting property [maxBackupIndex] to [9].
+log4j: Setting property [threshold] to [DEBUG].
+log4j: Parsing layout of class: "org.apache.log4j.PatternLayout"
+log4j: Setting property [conversionPattern] to [%d{ISO8601} [%-5.25t] %x %-5p %c - %m%n].
+log4j: setFile called: /home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/ajax4jsf.log, false
+log4j: setFile ended
+log4j: Adding appender named [A4J_ASYNC] to category [org.ajax4jsf].
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [HEARTBEAT] additivity to [false].
+log4j: Class name: [org.apache.log4j.AsyncAppender]
+log4j: Attaching appender named [HB_FILE] to appender named [HB_ASYNC].
+log4j: Class name: [org.jboss.logging.appender.RollingFileAppender]
+log4j: Setting property [file] to [/home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/pep-heartbeat.log].
+log4j: Setting property [append] to [true].
+log4j: Setting property [maxFileSize] to [50MB].
+log4j: Setting property [maxBackupIndex] to [9].
+log4j: Setting property [threshold] to [DEBUG].
+log4j: Parsing layout of class: "org.apache.log4j.PatternLayout"
+log4j: Setting property [conversionPattern] to [%d{ISO8601} [%-5.25t] %-5p %x - %m%n].
+log4j: setFile called: /home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/pep-heartbeat.log, true
+log4j: setFile ended
+log4j: Adding appender named [HB_ASYNC] to category [HEARTBEAT].
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [com.pep] additivity to [true].
+log4j: Level value for com.pep is  [DEBUG].
+log4j: com.pep level set to DEBUG
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [com.pep.im] additivity to [false].
+log4j: Level value for com.pep.im is  [DEBUG].
+log4j: com.pep.im level set to DEBUG
+log4j: Class name: [org.apache.log4j.AsyncAppender]
+log4j: Attaching appender named [IM_FILE] to appender named [IM_ASYNC].
+log4j: Class name: [org.jboss.logging.appender.RollingFileAppender]
+log4j: Setting property [file] to [/home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/imadapter.log].
+log4j: Setting property [append] to [false].
+log4j: Setting property [maxFileSize] to [50MB].
+log4j: Setting property [maxBackupIndex] to [9].
+log4j: Setting property [threshold] to [DEBUG].
+log4j: Parsing layout of class: "org.apache.log4j.PatternLayout"
+log4j: Setting property [conversionPattern] to [%d{ISO8601} [%-5.25t] %x %-5p %c - %m%n].
+log4j: setFile called: /home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/imadapter.log, false
+log4j: setFile ended
+log4j: Adding appender named [IM_ASYNC] to category [com.pep.im].
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [com.pep.wt.trade] additivity to [false].
+log4j: Level value for com.pep.wt.trade is  [DEBUG].
+log4j: com.pep.wt.trade level set to DEBUG
+log4j: Class name: [org.jboss.logging.appender.RollingFileAppender]
+log4j: Setting property [file] to [/home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/wt_trade.log].
+log4j: Setting property [append] to [false].
+log4j: Setting property [maxFileSize] to [50MB].
+log4j: Setting property [maxBackupIndex] to [9].
+log4j: Setting property [threshold] to [DEBUG].
+log4j: Parsing layout of class: "org.apache.log4j.PatternLayout"
+log4j: Setting property [conversionPattern] to [%d{ISO8601} [%-5.25t] %x %-5p %c - %m%n].
+log4j: setFile called: /home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/wt_trade.log, false
+log4j: setFile ended
+log4j: Adding appender named [WT_TRADE_FILE] to category [com.pep.wt.trade].
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [com.pep.quotes3] additivity to [false].
+log4j: Level value for com.pep.quotes3 is  [DEBUG].
+log4j: com.pep.quotes3 level set to DEBUG
+log4j: Class name: [org.apache.log4j.AsyncAppender]
+log4j: Attaching appender named [QP_FILE] to appender named [QP_ASYNC].
+log4j: Class name: [org.jboss.logging.appender.RollingFileAppender]
+log4j: Setting property [file] to [/home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/quotespage.log].
+log4j: Setting property [append] to [false].
+log4j: Setting property [maxFileSize] to [50MB].
+log4j: Setting property [maxBackupIndex] to [9].
+log4j: Parsing layout of class: "org.apache.log4j.PatternLayout"
+log4j: Setting property [conversionPattern] to [%d{ISO8601} [%-5.25t] %x %-5p %c - %m%n].
+log4j: setFile called: /home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/quotespage.log, false
+log4j: setFile ended
+log4j: Adding appender named [QP_ASYNC] to category [com.pep.quotes3].
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [PROF] additivity to [false].
+log4j: Level value for PROF is  [DEBUG].
+log4j: PROF level set to DEBUG
+log4j: Class name: [org.apache.log4j.AsyncAppender]
+log4j: Attaching appender named [PROF_FILE] to appender named [PROF_ASYNC].
+log4j: Class name: [org.jboss.logging.appender.RollingFileAppender]
+log4j: Setting property [file] to [/home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/prof.log].
+log4j: Setting property [append] to [false].
+log4j: Setting property [maxFileSize] to [50MB].
+log4j: Setting property [maxBackupIndex] to [9].
+log4j: Parsing layout of class: "org.apache.log4j.PatternLayout"
+log4j: Setting property [conversionPattern] to [%d{ISO8601} [%-5.25t] %x %-5p %c - %m%n].
+log4j: setFile called: /home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/prof.log, false
+log4j: setFile ended
+log4j: Adding appender named [PROF_ASYNC] to category [PROF].
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [com.pep.matching.handler.PriceFeedRequestHandler] additivity to [false].
+log4j: Level value for com.pep.matching.handler.PriceFeedRequestHandler is  [DEBUG].
+log4j: com.pep.matching.handler.PriceFeedRequestHandler level set to DEBUG
+log4j: Class name: [org.apache.log4j.AsyncAppender]
+log4j: Attaching appender named [PF_FILE] to appender named [PF_ASYNC].
+log4j: Class name: [org.jboss.logging.appender.RollingFileAppender]
+log4j: Setting property [file] to [/home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/pricefeed.log].
+log4j: Setting property [append] to [false].
+log4j: Setting property [maxFileSize] to [50MB].
+log4j: Setting property [maxBackupIndex] to [9].
+log4j: Parsing layout of class: "org.apache.log4j.PatternLayout"
+log4j: Setting property [conversionPattern] to [%d{ISO8601} [%-5.25t] %x %-5p %c - %m%n].
+log4j: setFile called: /home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/pricefeed.log, false
+log4j: setFile ended
+log4j: Adding appender named [PF_ASYNC] to category [com.pep.matching.handler.PriceFeedRequestHandler].
+log4j: Retreiving an instance of org.apache.log4j.Logger.
+log4j: Setting [com.pep.ws.SimpleMarketDataFeedBean] additivity to [false].
+log4j: Level value for com.pep.ws.SimpleMarketDataFeedBean is  [DEBUG].
+log4j: com.pep.ws.SimpleMarketDataFeedBean level set to DEBUG
+log4j: Adding appender named [PF_ASYNC] to category [com.pep.ws.SimpleMarketDataFeedBean].
+log4j: Class name: [org.apache.log4j.AsyncAppender]
+log4j: Attaching appender named [FILE] to appender named [ASYNC].
+log4j: Class name: [org.jboss.logging.appender.RollingFileAppender]
+log4j: Setting property [file] to [/home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/server.log].
+log4j: Setting property [append] to [false].
+log4j: Setting property [maxFileSize] to [50MB].
+log4j: Setting property [maxBackupIndex] to [9].
+log4j: Setting property [threshold] to [DEBUG].
+log4j: Parsing layout of class: "org.apache.log4j.PatternLayout"
+log4j: Setting property [conversionPattern] to [%d{ISO8601} [%-5.25t] %x %-5p %c - %m%n].
+log4j: setFile called: /home/kyuha/trunk/jboss-5.1.0.GA/server/default/log/server.log, false
+log4j: setFile ended
+log4j: Adding appender named [ASYNC] to category [root].
+Shutdown complete
+Halting VM

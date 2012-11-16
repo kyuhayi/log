@@ -1,0 +1,247 @@
+2012-09-25 23:38:22,504 [main ]  INFO  com.pep.im.IMAdapter - create()
+2012-09-25 23:38:22,584 [main ]  INFO  com.pep.im.IMAdapter - start() : ENTER
+2012-09-25 23:38:24,336 [main ]  INFO  com.pep.im.IMAdapter - start() : LEAVE
+2012-09-25 23:38:53,638 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: LoginNotification
+Operator message: 'kyuha LOGIN'
+2012-09-25 23:38:54,847 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CL X12 set as prompt for CL 23:38:30.484 '
+2012-09-25 23:38:54,861 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI SDO 9/25 X12 set as prompt for WTI SDO 23:38:30.854 '
+2012-09-25 23:38:54,867 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI NDO 9/26 X12 set as prompt for WTI NDO 23:38:31.879 '
+2012-09-25 23:38:54,878 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: BZ X12 set as prompt for BZ 23:38:32.361 '
+2012-09-25 23:38:54,882 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: Brent SDO 9/25 X12 set as prompt for Brent SDO 23:38:32.403 '
+2012-09-25 23:38:54,887 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG V12 set as prompt for NG 23:38:32.816 '
+2012-09-25 23:38:54,891 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG SDO 9/25 V12 set as prompt for NG SDO 23:38:32.864 '
+2012-09-25 23:38:54,895 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG V12 set as prompt for NG 23:38:32.954 '
+2012-09-25 23:38:54,900 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG NDO 9/26 X12 set as prompt for NG NDO 23:38:33.160 '
+2012-09-25 23:38:54,903 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CL X12 set as prompt for CL 23:38:33.962 '
+2012-09-25 23:38:54,909 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CL X12 set as prompt for CL 23:38:34.000 '
+2012-09-25 23:38:54,913 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CL X12 set as prompt for CL 23:38:34.040 '
+2012-09-25 23:38:54,918 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CL X12 set as prompt for CL 23:38:34.081 '
+2012-09-25 23:38:54,929 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CL X12 set as prompt for CL 23:38:34.144 '
+2012-09-25 23:38:54,932 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CL X12 set as prompt for CL 23:38:34.183 '
+2012-09-25 23:38:54,937 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CL X12 set as prompt for CL 23:38:34.220 '
+2012-09-25 23:38:54,943 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CL X12 set as prompt for CL 23:38:34.255 '
+2012-09-25 23:38:54,954 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CL X12 set as prompt for CL 23:38:34.294 '
+2012-09-25 23:38:54,960 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CLS1 F13/G13 set as prompt for CLS1 23:38:34.334 '
+2012-09-25 23:38:54,963 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CLS1 F13/G13 set as prompt for CLS1 23:38:34.407 '
+2012-09-25 23:38:54,965 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CLS1 X12/Z12 set as prompt for CLS1 23:38:34.465 '
+2012-09-25 23:38:54,968 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CLS1 X12/Z12 set as prompt for CLS1 23:38:34.502 '
+2012-09-25 23:38:54,971 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CLS1 X12/Z12 set as prompt for CLS1 23:38:34.558 '
+2012-09-25 23:38:54,979 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CLS6 M13/Z13 set as prompt for CLS6 23:38:34.593 '
+2012-09-25 23:38:54,982 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CLS6 Z12/M13 set as prompt for CLS6 23:38:34.627 '
+2012-09-25 23:38:54,985 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CLS12 M13/M14 set as prompt for CLS12 23:38:34.673 '
+2012-09-25 23:38:54,988 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CLS12 M13/M14 set as prompt for CLS12 23:38:34.738 '
+2012-09-25 23:38:54,991 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: CLS12 Z12/Z13 set as prompt for CLS12 23:38:34.808 '
+2012-09-25 23:38:54,993 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI SWAP CAL V12 set as prompt for WTI SWAP CAL 23:38:34.849 '
+2012-09-25 23:38:54,996 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI SWAP CAL V12 set as prompt for WTI SWAP CAL 23:38:34.900 '
+2012-09-25 23:38:54,999 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI SWAP CAL V12 set as prompt for WTI SWAP CAL 23:38:34.939 '
+2012-09-25 23:38:55,002 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI SWAP CAL V12 set as prompt for WTI SWAP CAL 23:38:34.981 '
+2012-09-25 23:38:55,005 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI SWAP CAL V12 set as prompt for WTI SWAP CAL 23:38:35.026 '
+2012-09-25 23:38:55,012 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI SWAP PEN Z12 set as prompt for WTI SWAP PEN 23:38:35.042 '
+2012-09-25 23:38:55,015 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI SWAP PEN X12 set as prompt for WTI SWAP PEN 23:38:35.057 '
+2012-09-25 23:38:55,018 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI STO 9/27 X12 set as prompt for WTI STO 23:38:35.128 '
+2012-09-25 23:38:55,028 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI STO 9/25 X12 set as prompt for WTI STO 23:38:35.204 '
+2012-09-25 23:38:55,031 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI LAL G13 set as prompt for WTI LAL 23:38:35.256 '
+2012-09-25 23:38:55,034 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI LAL X12 set as prompt for WTI LAL 23:38:35.284 '
+2012-09-25 23:38:55,037 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI LO Z12 set as prompt for WTI LO 23:38:35.329 '
+2012-09-25 23:38:55,040 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI LO X12 set as prompt for WTI LO 23:38:35.358 '
+2012-09-25 23:38:55,043 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI APO X12 set as prompt for WTI APO 23:38:35.406 '
+2012-09-25 23:38:55,045 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI APO V12 set as prompt for WTI APO 23:38:35.422 '
+2012-09-25 23:38:55,048 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI CSO 1M Z12/F13 set as prompt for WTI CSO 1M 23:38:35.505 '
+2012-09-25 23:38:55,051 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI CSO 1M X12/Z12 set as prompt for WTI CSO 1M 23:38:35.558 '
+2012-09-25 23:38:55,054 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI CSO 6M M13/Z13 set as prompt for WTI CSO 6M 23:38:35.634 '
+2012-09-25 23:38:55,057 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI CSO 6M Z12/M13 set as prompt for WTI CSO 6M 23:38:35.675 '
+2012-09-25 23:38:55,060 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI CSO 12M Z13/Z14 set as prompt for WTI CSO 12M 23:38:35.698 '
+2012-09-25 23:38:55,063 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI CSO 12M M13/M14 set as prompt for WTI CSO 12M 23:38:35.718 '
+2012-09-25 23:38:55,066 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI CSO 12M Z12/Z13 set as prompt for WTI CSO 12M 23:38:35.735 '
+2012-09-25 23:38:55,069 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI EOO X12 set as prompt for WTI EOO 23:38:35.753 '
+2012-09-25 23:38:55,072 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI NYM/ICE F13 set as prompt for WTI NYM/ICE 23:38:35.817 '
+2012-09-25 23:38:55,075 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI NYM/ICE Z12 set as prompt for WTI NYM/ICE 23:38:35.893 '
+2012-09-25 23:38:55,077 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: WTI NYM/ICE X12 set as prompt for WTI NYM/ICE 23:38:35.923 '
+2012-09-25 23:38:55,080 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: BZ X12 set as prompt for BZ 23:38:36.169 '
+2012-09-25 23:38:55,083 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: BZ X12 set as prompt for BZ 23:38:36.229 '
+2012-09-25 23:38:55,086 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: BZ X12 set as prompt for BZ 23:38:36.269 '
+2012-09-25 23:38:55,088 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: BZ X12 set as prompt for BZ 23:38:36.502 '
+2012-09-25 23:38:55,091 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: QOS1 X12/Z12 set as prompt for QOS1 23:38:36.564 '
+2012-09-25 23:38:55,094 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: QOS1 X12/Z12 set as prompt for QOS1 23:38:36.599 '
+2012-09-25 23:38:55,097 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: QOS1 X12/Z12 set as prompt for QOS1 23:38:36.667 '
+2012-09-25 23:38:55,099 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: QOS1 X12/Z12 set as prompt for QOS1 23:38:36.724 '
+2012-09-25 23:38:55,102 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: QOS1 X12/Z12 set as prompt for QOS1 23:38:36.880 '
+2012-09-25 23:38:55,104 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: Brent SWAP PEN X12 set as prompt for Brent SWAP PEN 23:38:36.916 '
+2012-09-25 23:38:55,107 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: Brent LAL Z12 set as prompt for Brent LAL 23:38:37.772 '
+2012-09-25 23:38:55,110 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: Brent LAL X12 set as prompt for Brent LAL 23:38:37.868 '
+2012-09-25 23:38:55,113 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: Brent BO F13 set as prompt for Brent BO 23:38:37.885 '
+2012-09-25 23:38:55,115 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: Brent BO X12 set as prompt for Brent BO 23:38:37.910 '
+2012-09-25 23:38:55,118 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: Brent CSO 1M F13/G13 set as prompt for Brent CSO 1M 23:38:37.964 '
+2012-09-25 23:38:55,121 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: Brent CSO 1M Z12/F13 set as prompt for Brent CSO 1M 23:38:37.988 '
+2012-09-25 23:38:55,123 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: Brent CSO 1M X12/Z12 set as prompt for Brent CSO 1M 23:38:38.053 '
+2012-09-25 23:38:55,126 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: Brent NYM/ICE H13 set as prompt for Brent NYM/ICE 23:38:38.082 '
+2012-09-25 23:38:55,129 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: Brent NYM/ICE Z12 set as prompt for Brent NYM/ICE 23:38:38.098 '
+2012-09-25 23:38:55,131 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: Brent NYM/ICE X12 set as prompt for Brent NYM/ICE 23:38:38.128 '
+2012-09-25 23:38:55,134 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG V12 set as prompt for NG 23:38:38.180 '
+2012-09-25 23:38:55,137 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG V12 set as prompt for NG 23:38:38.217 '
+2012-09-25 23:38:55,139 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG V12 set as prompt for NG 23:38:38.281 '
+2012-09-25 23:38:55,142 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NGS1 G13/H13 set as prompt for NGS1 23:38:38.344 '
+2012-09-25 23:38:55,144 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NGS1 X12/Z12 set as prompt for NGS1 23:38:38.402 '
+2012-09-25 23:38:55,147 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NGS1 X12/Z12 set as prompt for NGS1 23:38:38.450 '
+2012-09-25 23:38:55,150 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NGS1 V12/X12 set as prompt for NGS1 23:38:38.505 '
+2012-09-25 23:38:55,152 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NGS1 V12/X12 set as prompt for NGS1 23:38:38.575 '
+2012-09-25 23:38:55,155 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NGS3 V12/F13 set as prompt for NGS3 23:38:38.612 '
+2012-09-25 23:38:55,157 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NGS3 V12/F13 set as prompt for NGS3 23:38:38.650 '
+2012-09-25 23:38:55,160 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NGS3 V12/F13 set as prompt for NGS3 23:38:38.694 '
+2012-09-25 23:38:55,162 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NGS6 J13/V13 set as prompt for NGS6 23:38:38.742 '
+2012-09-25 23:38:55,165 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG SWAP LAST X12 set as prompt for NG SWAP LAST 23:38:38.761 '
+2012-09-25 23:38:55,167 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG SWAP LAST V12 set as prompt for NG SWAP LAST 23:38:38.793 '
+2012-09-25 23:38:55,170 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG SWAP PEN V12 set as prompt for NG SWAP PEN 23:38:38.839 '
+2012-09-25 23:38:55,172 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG STO 9/28 X12 set as prompt for NG STO 23:38:39.039 '
+2012-09-25 23:38:55,175 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG STO 9/27 X12 set as prompt for NG STO 23:38:39.080 '
+2012-09-25 23:38:55,178 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG STO 9/26 X12 set as prompt for NG STO 23:38:39.102 '
+2012-09-25 23:38:55,180 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG LAL X12 set as prompt for NG LAL 23:38:39.125 '
+2012-09-25 23:38:55,183 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG LAL V12 set as prompt for NG LAL 23:38:39.183 '
+2012-09-25 23:38:55,186 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG ON Z12 set as prompt for NG ON 23:38:39.266 '
+2012-09-25 23:38:55,188 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG ON V12 set as prompt for NG ON 23:38:39.325 '
+2012-09-25 23:38:55,191 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG CSO 1M Z12/F13 set as prompt for NG CSO 1M 23:38:39.414 '
+2012-09-25 23:38:55,194 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG CSO 1M V12/X12 set as prompt for NG CSO 1M 23:38:39.433 '
+2012-09-25 23:38:55,196 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG CSO 3M V12/F13 set as prompt for NG CSO 3M 23:38:39.510 '
+2012-09-25 23:38:55,199 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG CSO 6M J13/V13 set as prompt for NG CSO 6M 23:38:39.596 '
+2012-09-25 23:38:55,202 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG EOO V12 set as prompt for NG EOO 23:38:39.625 '
+2012-09-25 23:38:55,204 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG EFS X12 set as prompt for NG EFS 23:38:39.672 '
+2012-09-25 23:38:55,207 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG EFS V12 set as prompt for NG EFS 23:38:39.734 '
+2012-09-25 23:38:55,210 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG FUT/PEN G13 set as prompt for NG FUT/PEN 23:38:39.783 '
+2012-09-25 23:38:55,212 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG FUT/PEN F13 set as prompt for NG FUT/PEN 23:38:39.805 '
+2012-09-25 23:38:55,215 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG FUT/PEN X12 set as prompt for NG FUT/PEN 23:38:39.825 '
+2012-09-25 23:38:55,218 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG FUT/PEN V12 set as prompt for NG FUT/PEN 23:38:39.846 '
+2012-09-25 23:38:55,220 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG NYM/ICE Z12 set as prompt for NG NYM/ICE 23:38:39.896 '
+2012-09-25 23:38:55,223 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG NYM/ICE V12 set as prompt for NG NYM/ICE 23:38:39.929 '
+2012-09-25 23:38:55,225 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG NYM/ICE PEN X12 set as prompt for NG NYM/ICE PEN 23:38:39.991 '
+2012-09-25 23:38:55,228 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG NYM/ICE PEN V12 set as prompt for NG NYM/ICE PEN 23:38:40.051 '
+2012-09-25 23:38:55,231 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG PEN/LD F13 set as prompt for NG PEN/LD 23:38:40.089 '
+2012-09-25 23:38:55,233 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG PEN/LD Z12 set as prompt for NG PEN/LD 23:38:40.114 '
+2012-09-25 23:38:55,236 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: NG PEN/LD V12 set as prompt for NG PEN/LD 23:38:40.134 '
+2012-09-25 23:38:55,238 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: GC Z12 set as prompt for GC 23:38:40.237 '
+2012-09-25 23:38:55,241 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: GOLD STO 9/26 Z12 set as prompt for GOLD STO 23:38:40.263 '
+2012-09-25 23:38:55,244 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: SB H13 set as prompt for SB 23:38:40.384 '
+2012-09-25 23:38:55,246 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: SB H13 set as prompt for SB 23:38:40.438 '
+2012-09-25 23:38:55,249 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: SUGAR SO K13 set as prompt for SUGAR SO 23:38:40.461 '
+2012-09-25 23:38:55,251 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: SUGAR SO Z12 set as prompt for SUGAR SO 23:38:40.487 '
+2012-09-25 23:38:55,254 [IMRcvr]  DEBUG com.pep.im.IMAdapter - onMessage() :Forwarding a notification: ContractSeriesNotification
+Operator message: 'TIMER_UPDATED_PROMPT: SUGAR SO X12 set as prompt for SUGAR SO 23:38:40.530 '

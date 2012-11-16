@@ -1,0 +1,71 @@
+Please use CMSClassUnloadingEnabled in place of CMSPermGenSweepingEnabled in the future
+Sep 25, 2012 11:21:45 PM com.sun.faces.config.ConfigureListener$WebXmlProcessor scanForFacesServlet
+WARNING: Unable to process deployment descriptor for context '/api'
+Sep 25, 2012 11:21:45 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra (1.2_12-b01-FCS) for context '/api'
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.displayConfiguration' - ENABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.validateXml' - DISABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.verifyObjects' - DISABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.forceLoadConfiguration' - DISABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+WARNING: JSF1025: [] Context initialization parameter 'com.sun.faces.disableVersionTracking' is deprecated and will have no effect.  
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.enableHtmlTagLibValidator' - DISABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.preferXHTML' - DISABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.compressViewState' - ENABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.compressJavaScript' - ENABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.externalizeJavaScript' - DISABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.sendPoweredByHeader' - ENABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.enableJSStyleHiding' - DISABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.enableScriptsInAttributeValues' - ENABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.writeStateAtFormEnd' - ENABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.enableLazyBeanValidation' - ENABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.enabledLoadBundle11Compatibility' - DISABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.enableRestoreView11Compatibility' - ENABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.serializeServerState' - DISABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.enableViewStateIdRendering' - ENABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.registerConverterPropertyEditors' - DISABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processBooleanParameters
+INFO: JSF1021: [] Configuration option 'com.sun.faces.developmentMode' - DISABLED
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processInitParameters
+INFO: JSF1018: [] Configuration option 'javax.faces.STATE_SAVING_METHOD' set to 'server'
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processInitParameters
+INFO: JSF1018: [] Configuration option 'javax.faces.DEFAULT_SUFFIX' set to '.xhtml'
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processInitParameters
+INFO: JSF1018: [] Configuration option 'javax.faces.CONFIG_FILES' set to '/WEB-INF/navigation.xml'
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processInitParameters
+INFO: JSF1018: [] Configuration option 'com.sun.faces.numberOfViewsInSession' set to '15'
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processInitParameters
+INFO: JSF1018: [] Configuration option 'com.sun.faces.numberOfLogicalViews' set to '15'
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processInitParameters
+INFO: JSF1018: [] Configuration option 'com.sun.faces.injectionProvider' set to 'org.jboss.web.jsf.integration.injection.JBossDelegatingInjectionProvider'
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processInitParameters
+INFO: JSF1018: [] Configuration option 'com.sun.faces.responseBufferSize' set to '1024'
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processInitParameters
+INFO: JSF1018: [] Configuration option 'com.sun.faces.clientStateWriteBufferSize' set to '8192'
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processInitParameters
+INFO: JSF1018: [] Configuration option 'com.sun.faces.expressionFactory' set to 'com.sun.el.ExpressionFactoryImpl'
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processInitParameters
+INFO: JSF1018: [] Configuration option 'com.sun.faces.disableUnicodeEscaping' set to 'false'
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.WebConfiguration processInitParameters
+INFO: JSF1018: [] Configuration option 'com.sun.faces.duplicateJARPattern' set to '^tmp\d+(\S*\.jar)'
+Sep 25, 2012 11:21:48 PM com.sun.faces.config.ConfigureListener contextInitialized
+INFO: Initializing Mojarra (1.2_12-b01-FCS) for context ''
